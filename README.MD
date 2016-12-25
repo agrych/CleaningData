@@ -2,7 +2,7 @@ Johns Hopkins (Coursera) Gettting & Cleaning Data Course Project
 
 This README file explains details around the elements necessary for this project
 
-Original Data Source:  Data for analysis is downloaded from the below URL
+Original Data Source:  Data for analysis is downloaded from 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Original Data files used in this project: 
